@@ -1,0 +1,5 @@
+feature: feature/*
+refactoring: ['refactoring/*', 'refactor/*']
+bugfix: ['fix/*', 'bugfix/*']
+improvement: ['improvement/*', 'improve/*', 'migrate/*']
+CI: 'ci/*'
